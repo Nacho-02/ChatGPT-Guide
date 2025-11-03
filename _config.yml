@@ -1,0 +1,58 @@
+# =============================
+# 📘 ChatGPT 中文版 SEO 优化配置
+# =============================
+
+# 站点基本信息
+title: "ChatGPT 中文版：免费 GPT-5 国内使用指南（支持 GPT-5、GPT-4o，无需翻墙）"
+description: "2025 最新 ChatGPT 中文版使用教程：推荐国内可用 GPT-Mirrors 与 大可AI 镜像网站，支持 GPT-5、GPT-4o，无需翻墙，免费使用 ChatGPT，适合中文用户。"
+keywords: "ChatGPT 中文版, GPT-5, GPT-4o, ChatGPT 国内使用, ChatGPT 无需翻墙, ChatGPT 镜像网站, GPT-Mirrors, 大可AI, 免费ChatGPT, OpenAI 中文教程"
+
+# 作者与版权信息
+author: "Jonathan Kelly"
+email: "o6y2s506734@hotmail.com"
+timezone: Asia/Shanghai
+language: zh-CN
+
+
+# SEO 插件与构建设置
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
+# SEO 自定义字段（增强 meta 表现）
+seo:
+  name: "ChatGPT 中文版指南"
+  type: "Website"
+  description: "一站式 ChatGPT 中文使用指南，提供国内可用镜像网站 GPT-Mirrors 与 大可AI，无需翻墙即可体验 GPT-5 / GPT-4o。"
+  image: "/assets/cover.jpg"
+  locale: "zh_CN"
+  twitter_card: "summary_large_image"
+
+# 网站结构设置
+markdown: kramdown
+theme: minima
+paginate: 10
+highlighter: rouge
+
+# Robots 设置（允许搜索引擎索引）
+robots: "index, follow"
+
+# Sitemap 设置
+sitemap:
+  exclude:
+    - /404.html
+  include_posts: true
+  changefreq: weekly
+  priority: 0.8
+
+
+# =============================
+# 📌 附加优化建议
+# =============================
+# ✅ 请在 README.md 或 index.md 顶部添加：
+# ---
+
+# ---
+#
+# 这样每篇文档都会继承 _config.yml 的全局配置，同时拥有独立的 meta 优化。
