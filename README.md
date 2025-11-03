@@ -1,7 +1,3 @@
-# layout: default
-# title: "ChatGPT 中文版：免费 GPT-5 国内使用指南"
-# description: "国内镜像可直连 ChatGPT，无需翻墙，免费使用 GPT-4o / GPT-5。"
-# keywords: "ChatGPT中文版, GPT-5, 无需翻墙, GPT-Mirrors, 大可AI"
 # ChatGPT 中文版：免费 GPT-5 国内使用指南（支持 GPT-5、GPT-4o，无需翻墙）
 
 **最后更新时间：2025-11-03**
