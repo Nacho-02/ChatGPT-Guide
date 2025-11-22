@@ -26,7 +26,7 @@
 > ✅ 支持语音与图像输入
 > ✅ HTTPS 安全加密通信
 
-### 🍌 推荐镜像二：[大可 AI 镜像版](https://banana.dk82.com/ChatGPT-chinese-site.html#mirror)
+### 🍌 推荐镜像二：[大可 AI 镜像版](https://banana.dk82.com/chatgpt-chinese-site.html#mirror)
 
 > ✅ 无需科学上网即可直连
 > ✅ 兼容 ChatGPT-4 / ChatGPT-4o
@@ -75,7 +75,7 @@ ChatGPT 是由 **OpenAI** 开发的人工智能聊天助手，基于最新的 **
 推荐入口：
 
 * [ChatGPT-Mirrors 镜像系统](http://ChatGPT.shuangrenchengxing.com/chat.php)
-* [大可 AI 镜像版](https://banana.dk82.com/ChatGPT-chinese-site.html#mirror)
+* [大可 AI 镜像版](https://banana.dk82.com/chatgpt-chinese-site.html#mirror)
 
 ### 方案二：注册 ChatGPT 官网（需技术门槛）
 
